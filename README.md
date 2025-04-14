@@ -5,7 +5,7 @@
 
 <h1 align="center">Namaste 🙏🏻, I am Jalpesh Goti</h1>
 
-<h3 align="center">Sr. iOS / Flutter Developer</h3>
+<h3 align="center">Sr. iOS / React Native Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JalpeshGoti91&label=Profile%20views&color=0e75b6&style=flat" alt="JalpeshGoti91" /> </p>
 
@@ -15,24 +15,24 @@
   <h2>💫 About Me:</h2>
 </div>
 
-Hello! I'm a software developer with a passion for mobile app development and a growing interest in iOS application development. With 5 years of professional experience under my belt, I've been actively involved in creating robust and user-friendly applications using iOS and Flutter technologies.
+Hello! I'm a software developer with a passion for mobile app development and a growing interest in iOS application development. With 6 years of professional experience under my belt, I've been actively involved in creating robust and user-friendly applications using iOS and React Native technologies.
 
  <br>  **iOS Development (5 years):** <br>
-- Swift | Xcode | UIKit | Dart | Flutter
+- Swift | Xcode | UIKit | React Native | JS Components
 - Firebase | Third-Party Library
 - Push Notification | Core Data | Pods
 - Version Control | REST APIs | JSON | XML
 - Version Control (Git)
 
-<br> **Flutter Development (1 year):** <br>
-- Dart Programming | Widget-Based UI
-- Material Design & Cupertino
-- State Management (Provider, Bloc)
-- Dependency Management (Pub) | Platform Channels
-- Responsive Design | Testing & Debugging
+<br> **React Native Development (1+ year):** <br>
+- React Native | JavaScript & TypeScript
+- Cross-Platform UI with Native Components
+- State Management (Redux, Context API)
+- Third-Party Libraries & Native Module Integration
+- Platform-Specific Customization (iOS/Android) | Debugging & Performance Optimization (Flipper, Hermes)
 
 <br> 👨‍💻 **What I'm Seeking** <br>
-I'm currently seeking new opportunities to further enhance my skills and knowledge in the software development field. I'm open to both Flutter and Android development roles, as well as exploring MERN Stack development opportunities. I'm particularly interested in positions that allow me to work on challenging projects and contribute to the success of innovative and forward-thinking teams.
+I'm currently seeking new opportunities to further enhance my skills and knowledge in the software development field. I'm open to both iOS and React Native development roles, as well as exploring MERN Stack development opportunities. I'm particularly interested in positions that allow me to work on challenging projects and contribute to the success of innovative and forward-thinking teams.
 
 <br>
 <br>
@@ -48,8 +48,8 @@ I'm currently seeking new opportunities to further enhance my skills and knowled
     <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
     <img src="https://img.shields.io/badge/Xcode-%23145B9D.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/React%20Native-VSCode-blue" alt="React Native">
+    <img src="https://img.shields.io/badge/JS%20Script-blue" alt="JS Scrit">
     <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
   </p>
   <hr>
