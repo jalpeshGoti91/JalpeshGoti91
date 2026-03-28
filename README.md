@@ -22,7 +22,7 @@ Hello! I'm a software developer with a passion for mobile app development and a 
 - Firebase | Third-Party Library
 - Push Notification | Core Data | Pods
 - Version Control | REST APIs | JSON | XML
-- Version Control (Git)
+- Subscription | Go to live on AppStor/PlayStore 
 
 <br> **React Native Development (1+ year):** <br>
 - React Native | JavaScript & TypeScript
